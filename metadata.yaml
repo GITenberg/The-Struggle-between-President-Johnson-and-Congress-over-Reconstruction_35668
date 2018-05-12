@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37819'
     url: http://www.gutenberg.org/2009/agents/37819
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35668#The-Struggle-between-President-Johnson-and-Congress-over-Reconstruction
 gutenberg_issued: '2011-03-24'
 gutenberg_type: Text
 identifiers:
