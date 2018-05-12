@@ -1,0 +1,29 @@
+_repo: The-Struggle-between-President-Johnson-and-Congress-over-Reconstruction_35668
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chadsey, Charles E. (Charles Ernest)
+    alias: Chadsey, Charles Ernest
+    birthdate: 1870
+    deathdate: 1930
+    gutenberg_agent_id: '37819'
+    url: http://www.gutenberg.org/2009/agents/37819
+description: ''
+gutenberg_issued: '2011-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35668'
+  lccn: 04002288
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E660'
+- !lcsh 'Johnson, Andrew, 1808-1875'
+- !lcsh 'United States -- Politics and government -- 1865-1869'
+title: The Struggle between President Johnson and Congress over Reconstruction
+url: http://www.gutenberg.org/ebooks/35668
